@@ -1,0 +1,10 @@
+1)_ ¿Qué es Java?
+Es un lenguaje de programación ampliamente utilizado para codificar aplicaciones web.
+Es un lenguaje multiplataforma, orientado a objeto y centrado en la red que se puede utilizar como plataforma en sí mismo.
+2)_ ¿Qué se puede hacer con Java?
+Debido a que es un lenguaje versátil y de uso gratuito, crea software localizado y distribuido. Algunos usos de Java incluye:
+*Desarrollo de videojuegos,
+*Computación en la nube,
+*Macro datos,
+*Inteligencia Artificial,
+Internet de las cosas. 
