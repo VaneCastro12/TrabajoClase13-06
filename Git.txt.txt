@@ -1,1 +1,9 @@
-Vanesa Gisel Castro
+	Vanesa Gisel Castro
+1)_ ¿Qué es el GIT? 
+Es un software que nos permite controlar las versiones de nuestro programa. 
+Es un software de control de ersiones de código abierto.
+
+2)_ ¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+Nos sirve para cargar actualizaciones, es decir nos permite subir o volver a la versión original del programa si hay errores en la versión actual.
+
+
